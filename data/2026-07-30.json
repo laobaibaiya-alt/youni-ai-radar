@@ -1,0 +1,1226 @@
+{
+  "run_date": "2026-07-30",
+  "collected_at": null,
+  "collection_mode": null,
+  "repositories": [
+    {
+      "full_name": "langchain-ai/langchain",
+      "html_url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 142966,
+      "star_growth": 1,
+      "forks": 23802,
+      "language": "Python",
+      "license_spdx": "MIT",
+      "created_at": "2022-10-17T02:58:36Z",
+      "pushed_at": "2026-07-29T00:59:10Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag",
+        "typescript"
+      ],
+      "score": 41.75,
+      "reasons": [
+        "AI relevance keywords: 5",
+        "Star growth since previous snapshot: 1",
+        "Repository age: 1382 days"
+      ],
+      "understanding": {
+        "what_it_is": "AI代理工程平台",
+        "purpose": "为开发者提供构建、管理和部署AI代理的工具和框架。",
+        "target_users": "AI开发者、企业、研究人员",
+        "why_watch": "该项目支持多种LLM和AI代理，适合需要快速集成和扩展AI能力的用户。"
+      }
+    },
+    {
+      "full_name": "headroomlabs-ai/headroom",
+      "html_url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 63286,
+      "star_growth": 1,
+      "forks": 4803,
+      "language": "Python",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2026-01-07T19:58:51Z",
+      "pushed_at": "2026-07-30T07:31:19Z",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression",
+        "context-engineering",
+        "context-window",
+        "cursor",
+        "fastapi",
+        "langchain",
+        "llm",
+        "mcp",
+        "openai",
+        "prompt-engineering",
+        "proxy",
+        "python",
+        "rag",
+        "token-optimization",
+        "tokens",
+        "typescript"
+      ],
+      "score": 41.75,
+      "reasons": [
+        "AI relevance keywords: 5",
+        "Star growth since previous snapshot: 1",
+        "Repository age: 203 days"
+      ],
+      "understanding": {
+        "what_it_is": "AI代理上下文压缩层",
+        "purpose": "在数据进入LLM前压缩工具输出、日志、文件和RAG块，减少token消耗。",
+        "target_users": "AI代理开发者、需要优化token使用的工程师",
+        "why_watch": "可显著减少token用量，提升AI代理效率，支持多种集成方式。"
+      }
+    },
+    {
+      "full_name": "rasbt/LLMs-from-scratch",
+      "html_url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "stars": 100140,
+      "star_growth": 0,
+      "forks": 15391,
+      "language": "Jupyter Notebook",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2023-07-23T18:15:57Z",
+      "pushed_at": "2026-07-29T21:23:45Z",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "attention-mechanism",
+        "deep-learning",
+        "finetuning",
+        "from-scratch",
+        "generative-ai",
+        "gpt",
+        "instruction-tuning",
+        "language-model",
+        "large-language-models",
+        "llm",
+        "machine-learning",
+        "natural-language-processing",
+        "pretraining",
+        "python",
+        "pytorch",
+        "tokenizer",
+        "transformers"
+      ],
+      "score": 40.0,
+      "reasons": [
+        "AI relevance keywords: 5",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 1102 days"
+      ],
+      "understanding": {
+        "what_it_is": "从零实现ChatGPT类LLM的教程与代码",
+        "purpose": "通过PyTorch逐步开发、预训练和微调GPT类大语言模型。",
+        "target_users": "AI学习者、研究人员、开发者",
+        "why_watch": "适合深入理解LLM原理和实现过程，提供完整代码和教学资源。"
+      }
+    },
+    {
+      "full_name": "patchy631/ai-engineering-hub",
+      "html_url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "stars": 36790,
+      "star_growth": 0,
+      "forks": 6084,
+      "language": "Jupyter Notebook",
+      "license_spdx": "MIT",
+      "created_at": "2024-10-21T10:43:24Z",
+      "pushed_at": "2026-07-27T18:43:06Z",
+      "topics": [
+        "agents",
+        "ai",
+        "llms",
+        "machine-learning",
+        "mcp",
+        "rag"
+      ],
+      "score": 40.0,
+      "reasons": [
+        "AI relevance keywords: 5",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 646 days"
+      ],
+      "understanding": {
+        "what_it_is": "AI工程教程与项目集合",
+        "purpose": "提供LLM、RAG及AI代理应用的深入教程和实战项目。",
+        "target_users": "初学者、实践者、研究人员",
+        "why_watch": "涵盖多种AI主题，适合系统学习和项目实践。"
+      }
+    },
+    {
+      "full_name": "vercel/ai",
+      "html_url": "https://github.com/vercel/ai",
+      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "stars": 25901,
+      "star_growth": 0,
+      "forks": 4882,
+      "language": "TypeScript",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2023-05-23T15:04:08Z",
+      "pushed_at": "2026-07-30T08:05:18Z",
+      "topics": [
+        "anthropic",
+        "artificial-intelligence",
+        "gemini",
+        "generative-ai",
+        "generative-ui",
+        "javascript",
+        "language-model",
+        "llm",
+        "nextjs",
+        "openai",
+        "react",
+        "svelte",
+        "typescript",
+        "vercel",
+        "vue"
+      ],
+      "score": 40.0,
+      "reasons": [
+        "AI relevance keywords: 5",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 1163 days"
+      ],
+      "understanding": {
+        "what_it_is": "TypeScript AI工具包",
+        "purpose": "帮助开发者用主流UI框架构建AI应用和代理。",
+        "target_users": "前端开发者、AI工程师",
+        "why_watch": "支持Next.js、React等，统一API集成多种AI模型，适合构建AI前端应用。"
+      }
+    },
+    {
+      "full_name": "1jehuang/jcode",
+      "html_url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "stars": 13706,
+      "star_growth": 3,
+      "forks": 1503,
+      "language": "Rust",
+      "license_spdx": "MIT",
+      "created_at": "2026-01-05T09:43:36Z",
+      "pushed_at": "2026-07-30T08:18:05Z",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-coding-agent",
+        "claude",
+        "cli",
+        "coding-agent",
+        "llm",
+        "mcp",
+        "openai",
+        "rust",
+        "terminal",
+        "tui"
+      ],
+      "score": 38.25,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 3",
+        "Repository age: 205 days",
+        "Appears on GitHub Trending"
+      ],
+      "understanding": {
+        "what_it_is": "高效RAM的AI代理工具",
+        "purpose": "为AI代理提供最节省内存的运行环境。",
+        "target_users": "需要高效资源管理的AI开发者",
+        "why_watch": "强调内存效率，适合资源有限环境下的AI代理开发。"
+      }
+    },
+    {
+      "full_name": "lobehub/lobehub",
+      "html_url": "https://github.com/lobehub/lobehub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "stars": 80971,
+      "star_growth": 1,
+      "forks": 15728,
+      "language": "TypeScript",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2023-05-21T07:19:12Z",
+      "pushed_at": "2026-07-30T08:19:13Z",
+      "topics": [
+        "agent",
+        "agent-collaboration",
+        "agent-harness",
+        "ai",
+        "cao",
+        "chatgpt",
+        "chief-agent-operator",
+        "claude",
+        "deepseek",
+        "fable",
+        "gemini",
+        "glm",
+        "gpt",
+        "knowledge-base",
+        "loop-engineering",
+        "mcp",
+        "openai",
+        "skills"
+      ],
+      "score": 35.75,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 1",
+        "Repository age: 1166 days"
+      ],
+      "understanding": {
+        "what_it_is": "AI代理团队管理平台",
+        "purpose": "组织、调度和管理AI代理团队，实现7×24自动化运营。",
+        "target_users": "企业、团队、AI工程师",
+        "why_watch": "适合需要多代理协作和自动化管理的场景，支持多种AI模型。"
+      }
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 235851,
+      "star_growth": 1,
+      "forks": 35894,
+      "language": "JavaScript",
+      "license_spdx": "MIT",
+      "created_at": "2026-01-18T00:51:51Z",
+      "pushed_at": "2026-07-29T18:11:01Z",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "score": 34.75,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 1",
+        "Repository age: 193 days",
+        "Appears on GitHub Trending"
+      ],
+      "understanding": {
+        "what_it_is": "AI代理性能优化系统",
+        "purpose": "提升代理性能，支持技能、记忆、安全等功能，适用于多种AI代理。",
+        "target_users": "AI代理开发者、需要优化代理性能的用户",
+        "why_watch": "提供多功能优化，适合复杂代理系统的开发与管理。"
+      }
+    },
+    {
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 45021,
+      "star_growth": 1,
+      "forks": 7643,
+      "language": "Python",
+      "license_spdx": "MIT",
+      "created_at": "2026-03-18T18:38:02Z",
+      "pushed_at": "2026-07-26T11:07:40Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "computer-vision",
+        "course",
+        "deep-learning",
+        "from-scratch",
+        "generative-ai",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "nlp",
+        "python",
+        "reinforcement-learning",
+        "rust",
+        "swarm-intelligence",
+        "transformers",
+        "tutorial",
+        "typescript"
+      ],
+      "score": 34.75,
+      "reasons": [
+        "AI relevance keywords: 6",
+        "Star growth since previous snapshot: 1",
+        "Repository age: 133 days"
+      ],
+      "understanding": {
+        "what_it_is": "AI工程学习与实战手册",
+        "purpose": "系统学习AI工程知识并实践构建AI项目。",
+        "target_users": "AI初学者、开发者、工程师",
+        "why_watch": "内容丰富，适合从基础到实战全面提升AI工程能力。"
+      }
+    },
+    {
+      "full_name": "huggingface/speech-to-speech",
+      "html_url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "stars": 8111,
+      "star_growth": 1,
+      "forks": 1022,
+      "language": "Python",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2024-08-07T15:32:09Z",
+      "pushed_at": "2026-07-29T21:36:19Z",
+      "topics": [
+        "ai",
+        "assistant",
+        "language-model",
+        "machine-learning",
+        "python",
+        "speech",
+        "speech-synthesis",
+        "speech-to-text",
+        "speech-translation"
+      ],
+      "score": 34.75,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 1",
+        "Repository age: 721 days",
+        "Appears on GitHub Trending"
+      ],
+      "understanding": {
+        "what_it_is": "本地语音代理构建工具",
+        "purpose": "用开源模型搭建低延迟、模块化语音代理，支持语音识别、合成和翻译。",
+        "target_users": "语音AI开发者、需要本地语音处理的用户",
+        "why_watch": "支持全本地部署和模块替换，适合语音交互类AI应用开发。"
+      }
+    },
+    {
+      "full_name": "alibaba/open-code-review",
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 16281,
+      "star_growth": 4,
+      "forks": 1100,
+      "language": "Go",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2026-05-18T02:16:36Z",
+      "pushed_at": "2026-07-30T07:56:41Z",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 2",
+        "Star growth since previous snapshot: 4",
+        "Repository age: 73 days",
+        "Appears on GitHub Trending"
+      ],
+      "understanding": {
+        "what_it_is": "混合架构代码审查工具，支持确定性流程和大语言模型代理。",
+        "purpose": "自动化代码审查，精确行级评论，内置安全规则集，兼容多种AI模型。",
+        "target_users": "开发团队、代码审查人员、企业技术部门。",
+        "why_watch": "适用于大规模代码审查，提升代码质量与安全，支持自定义与扩展。"
+      }
+    },
+    {
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 185747,
+      "star_growth": 0,
+      "forks": 46068,
+      "language": "Python",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2023-03-16T09:21:07Z",
+      "pushed_at": "2026-07-30T06:35:29Z",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "artificial-intelligence",
+        "autonomous-agents",
+        "claude",
+        "gpt",
+        "llama-api",
+        "llm",
+        "openai",
+        "python"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 1231 days"
+      ],
+      "understanding": {
+        "what_it_is": "开放式AI代理平台。",
+        "purpose": "让用户描述任务，自动生成并运行AI代理完成工作。",
+        "target_users": "希望自动化任务的个人和开发者。",
+        "why_watch": "简化AI代理使用和开发，适合探索自动化与智能工作流。"
+      }
+    },
+    {
+      "full_name": "f/prompts.chat",
+      "html_url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "stars": 166518,
+      "star_growth": 0,
+      "forks": 21509,
+      "language": "HTML",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2022-12-05T13:54:13Z",
+      "pushed_at": "2026-07-30T04:04:17Z",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "awesome-list",
+        "chatgpt",
+        "chatgpt-prompts",
+        "claude",
+        "gemini",
+        "gpt",
+        "gpt-4",
+        "llm",
+        "machine-learning",
+        "nextjs",
+        "open-source",
+        "openai",
+        "prompt-engineering",
+        "prompts",
+        "prompts-chat",
+        "typescript"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 1332 days"
+      ],
+      "understanding": {
+        "what_it_is": "开源AI提示词库平台。",
+        "purpose": "分享、发现、收集社区AI提示词，支持多种大模型。",
+        "target_users": "AI提示词工程师、开发者、组织。",
+        "why_watch": "拥有丰富提示词资源，支持自托管，提升AI应用效果。"
+      }
+    },
+    {
+      "full_name": "langgenius/dify",
+      "html_url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 150778,
+      "star_growth": 0,
+      "forks": 23762,
+      "language": "TypeScript",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2023-04-12T07:40:24Z",
+      "pushed_at": "2026-07-30T08:20:49Z",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "automation",
+        "claude",
+        "genai",
+        "gpt",
+        "llm",
+        "low-code",
+        "mcp",
+        "nextjs",
+        "no-code",
+        "openai",
+        "orchestration",
+        "python",
+        "rag",
+        "skills",
+        "workflow"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 1205 days"
+      ],
+      "understanding": {
+        "what_it_is": "AI代理工作流与RAG管道构建平台。",
+        "purpose": "在协作空间内集成多模型与工具，支持云端、本地部署。",
+        "target_users": "团队、企业、AI开发者。",
+        "why_watch": "快速从原型到生产，无需重建技术栈，适合多场景AI应用。"
+      }
+    },
+    {
+      "full_name": "OpenHands/OpenHands",
+      "html_url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 82572,
+      "star_growth": 0,
+      "forks": 10598,
+      "language": "TypeScript",
+      "license_spdx": "MIT",
+      "created_at": "2024-03-13T03:33:31Z",
+      "pushed_at": "2026-07-30T06:41:59Z",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 869 days"
+      ],
+      "understanding": {
+        "what_it_is": "自托管开发者控制中心，支持多种AI代理与自动化。",
+        "purpose": "管理和运行多种AI代理，实现代码自动化与协作。",
+        "target_users": "开发者、技术团队。",
+        "why_watch": "统一管理多代理，支持本地、远程、云端，提升开发效率。"
+      }
+    },
+    {
+      "full_name": "aaif-goose/goose",
+      "html_url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 51949,
+      "star_growth": 0,
+      "forks": 5810,
+      "language": "Rust",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2024-08-23T19:03:36Z",
+      "pushed_at": "2026-07-30T06:22:52Z",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 705 days"
+      ],
+      "understanding": {
+        "what_it_is": "开源可扩展AI代理，支持桌面、CLI、API。",
+        "purpose": "不仅代码建议，还可安装、执行、编辑、测试，兼容多种LLM。",
+        "target_users": "开发者、自动化爱好者。",
+        "why_watch": "多功能AI代理，适合代码与工作流自动化，易于扩展。"
+      }
+    },
+    {
+      "full_name": "mudler/LocalAI",
+      "html_url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "stars": 48012,
+      "star_growth": 0,
+      "forks": 4304,
+      "language": "Go",
+      "license_spdx": "MIT",
+      "created_at": "2023-03-18T22:58:02Z",
+      "pushed_at": "2026-07-30T08:10:27Z",
+      "topics": [
+        "agents",
+        "ai",
+        "api",
+        "audio-generation",
+        "decentralized",
+        "distributed",
+        "image-generation",
+        "libp2p",
+        "llama",
+        "llm",
+        "mamba",
+        "mcp",
+        "musicgen",
+        "object-detection",
+        "rerank",
+        "stable-diffusion",
+        "text-generation",
+        "tts"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 1229 days"
+      ],
+      "understanding": {
+        "what_it_is": "开源AI引擎，支持多种模型与硬件。",
+        "purpose": "在本地运行LLM、视觉、语音、图像、视频模型，无需GPU。",
+        "target_users": "开发者、AI应用构建者。",
+        "why_watch": "本地部署AI模型，适合资源有限环境，支持多种任务。"
+      }
+    },
+    {
+      "full_name": "jeecgboot/JeecgBoot",
+      "html_url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "stars": 47201,
+      "star_growth": 0,
+      "forks": 16124,
+      "language": "Java",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2018-11-26T10:40:00Z",
+      "pushed_at": "2026-07-30T05:57:37Z",
+      "topics": [
+        "activiti",
+        "agent",
+        "ai",
+        "antd",
+        "claude-code",
+        "cli",
+        "codegenerator",
+        "codex",
+        "flowable",
+        "langchain4j",
+        "llm",
+        "low-code",
+        "mcp",
+        "mybatis-plus",
+        "rag",
+        "skills",
+        "spring-ai",
+        "springboot",
+        "springcloud",
+        "vue3"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 2802 days"
+      ],
+      "understanding": {
+        "what_it_is": "企业级AI低代码平台。",
+        "purpose": "一键生成前后端代码、系统，支持AI技能、流程编排、知识库等。",
+        "target_users": "企业开发者、低代码应用建设者。",
+        "why_watch": "大幅提升开发效率，支持自然语言生成代码与流程，适合快速构建企业应用。"
+      }
+    },
+    {
+      "full_name": "zhayujie/CowAgent",
+      "html_url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 46211,
+      "star_growth": 0,
+      "forks": 10286,
+      "language": "Python",
+      "license_spdx": "MIT",
+      "created_at": "2022-08-07T08:33:41Z",
+      "pushed_at": "2026-07-30T04:39:14Z",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "chatgpt-on-wechat",
+        "claude",
+        "claude-code",
+        "codex",
+        "cowagent",
+        "deepseek",
+        "harness",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "openclaw",
+        "skills"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 1452 days"
+      ],
+      "understanding": {
+        "what_it_is": "开源超级AI助手与代理管理平台。",
+        "purpose": "任务规划、工具调用、自我进化，支持多模型多渠道，轻量可扩展。",
+        "target_users": "开发者、自动化需求用户。",
+        "why_watch": "一行安装，支持多模型与技能，适合多场景AI自动化。"
+      }
+    },
+    {
+      "full_name": "langchain-ai/langgraph",
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "stars": 38488,
+      "star_growth": 0,
+      "forks": 6481,
+      "language": "Python",
+      "license_spdx": "MIT",
+      "created_at": "2023-08-09T18:33:12Z",
+      "pushed_at": "2026-07-28T18:34:13Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 1085 days"
+      ],
+      "understanding": {
+        "what_it_is": "低层编排框架，构建状态化AI代理。",
+        "purpose": "为AI代理提供弹性与状态管理，支持多模型与工作流。",
+        "target_users": "AI开发者、企业技术团队。",
+        "why_watch": "适合构建复杂、可靠的AI代理系统，支持多种应用场景。"
+      }
+    },
+    {
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 36366,
+      "star_growth": 0,
+      "forks": 4490,
+      "language": "TypeScript",
+      "license_spdx": "MIT",
+      "created_at": "2023-06-19T04:08:31Z",
+      "pushed_at": "2026-07-30T07:16:05Z",
+      "topics": [
+        "agent",
+        "agent-native",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agent",
+        "ai-assistant",
+        "assistant",
+        "assistant-chat-bots",
+        "copilot",
+        "copilot-chat",
+        "generative-ui",
+        "js",
+        "llm",
+        "nextjs",
+        "open-source",
+        "react",
+        "reactjs",
+        "ts",
+        "typescript"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 1137 days"
+      ],
+      "understanding": {
+        "what_it_is": "面向代理和生成式UI的前端开发栈，支持React、Angular、移动端、Slack等。",
+        "purpose": "用于构建“agent-native”应用，实现生成式UI、共享状态和人机协作流程。",
+        "target_users": "前端开发者、AI应用开发者、希望集成AI代理到多平台的团队。",
+        "why_watch": "关注其如何跨框架实现AI代理集成和生成式UI，适合需要多端支持的AI应用开发者。"
+      }
+    },
+    {
+      "full_name": "ComposioHQ/composio",
+      "html_url": "https://github.com/ComposioHQ/composio",
+      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+      "stars": 29459,
+      "star_growth": 0,
+      "forks": 4682,
+      "language": "TypeScript",
+      "license_spdx": "MIT",
+      "created_at": "2024-02-23T13:58:27Z",
+      "pushed_at": "2026-07-30T08:05:10Z",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "aiagents",
+        "developer-tools",
+        "function-calling",
+        "gpt-4",
+        "javascript",
+        "js",
+        "llm",
+        "llmops",
+        "mcp",
+        "python",
+        "remote-mcp-server",
+        "sse",
+        "typescript"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 887 days"
+      ],
+      "understanding": {
+        "what_it_is": "支持1000+工具包、工具搜索、上下文管理、认证和沙盒工作台的AI代理开发平台。",
+        "purpose": "帮助开发者构建能将意图转化为行动的AI代理。",
+        "target_users": "AI开发者、需要集成多种工具和API的团队。",
+        "why_watch": "适合关注AI代理与多工具集成、自动化和上下文管理的开发者。"
+      }
+    },
+    {
+      "full_name": "huggingface/datasets",
+      "html_url": "https://github.com/huggingface/datasets",
+      "description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+      "stars": 21784,
+      "star_growth": 0,
+      "forks": 3317,
+      "language": "Python",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2020-03-26T09:23:22Z",
+      "pushed_at": "2026-07-28T11:12:36Z",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "computer-vision",
+        "dataset-hub",
+        "datasets",
+        "deep-learning",
+        "huggingface",
+        "llm",
+        "machine-learning",
+        "natural-language-processing",
+        "nlp",
+        "numpy",
+        "pandas",
+        "pytorch",
+        "speech",
+        "tensorflow"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 2316 days"
+      ],
+      "understanding": {
+        "what_it_is": "最大规模的AI模型可用数据集中心，提供高效易用的数据处理工具。",
+        "purpose": "为AI和机器学习模型提供丰富、标准化的数据集及数据操作工具。",
+        "target_users": "机器学习、NLP、CV等领域的研究者和开发者。",
+        "why_watch": "适合需要高质量数据集和数据处理能力的AI项目，尤其是NLP和深度学习方向。"
+      }
+    },
+    {
+      "full_name": "dyad-sh/dyad",
+      "html_url": "https://github.com/dyad-sh/dyad",
+      "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "stars": 21076,
+      "star_growth": 0,
+      "forks": 2552,
+      "language": "TypeScript",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2025-04-11T06:33:48Z",
+      "pushed_at": "2026-07-30T07:15:25Z",
+      "topics": [
+        "ai-app-builder",
+        "anthropic",
+        "artificial-intelligence",
+        "bolt",
+        "deepseek",
+        "gemini",
+        "generative-ai",
+        "github",
+        "llm",
+        "llms",
+        "lovable",
+        "nextjs",
+        "ollama",
+        "openai",
+        "qwen",
+        "react",
+        "typescript",
+        "v0",
+        "vercel"
+      ],
+      "score": 34.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 475 days"
+      ],
+      "understanding": {
+        "what_it_is": "本地开源AI应用构建器，类似Lovable、v0或Bolt的替代品。",
+        "purpose": "让用户在本地快速、私密地构建和运行AI应用，支持自带API密钥。",
+        "target_users": "对隐私和本地部署有需求的AI开发者和高级用户。",
+        "why_watch": "关注本地AI应用开发、无需云端依赖和跨平台支持的用户。"
+      }
+    },
+    {
+      "full_name": "yamadashy/repomix",
+      "html_url": "https://github.com/yamadashy/repomix",
+      "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+      "stars": 27512,
+      "star_growth": 0,
+      "forks": 1463,
+      "language": "TypeScript",
+      "license_spdx": "MIT",
+      "created_at": "2024-07-13T07:11:32Z",
+      "pushed_at": "2026-07-26T09:31:20Z",
+      "topics": [
+        "ai",
+        "anthropic",
+        "artificial-intelligence",
+        "chatbot",
+        "chatgpt",
+        "claude",
+        "deepseek",
+        "developer-tools",
+        "gemini",
+        "genai",
+        "generative-ai",
+        "gpt",
+        "javascript",
+        "language-model",
+        "llama",
+        "llm",
+        "mcp",
+        "nodejs",
+        "openai",
+        "typescript"
+      ],
+      "score": 33.0,
+      "reasons": [
+        "AI relevance keywords: 5",
+        "Star growth since previous snapshot: 0",
+        "Repository age: 747 days"
+      ],
+      "understanding": {
+        "what_it_is": "将整个代码仓库打包为单一AI友好文件的工具，便于LLM等AI工具处理。",
+        "purpose": "方便将代码库输入到大语言模型或AI工具进行分析和处理。",
+        "target_users": "需要将代码库输入AI模型的开发者、AI研究者。",
+        "why_watch": "关注AI辅助代码理解、自动化代码分析和与主流LLM集成的用户。"
+      }
+    },
+    {
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 128855,
+      "star_growth": 2,
+      "forks": 19014,
+      "language": "Python",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2024-04-29T05:30:25Z",
+      "pushed_at": "2026-07-23T08:12:10Z",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "score": 30.5,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 2",
+        "Repository age: 822 days"
+      ],
+      "understanding": {
+        "what_it_is": "收录100+开源AI代理、技能和RAG应用的集合。",
+        "purpose": "为开发者提供丰富的AI代理和RAG应用资源，便于学习和复用。",
+        "target_users": "AI开发者、希望快速搭建或学习AI代理和RAG应用的用户。",
+        "why_watch": "适合寻找高质量AI代理和RAG应用模板、案例和教程的开发者。"
+      }
+    },
+    {
+      "full_name": "moeru-ai/airi",
+      "html_url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "stars": 45634,
+      "star_growth": 5,
+      "forks": 4504,
+      "language": "TypeScript",
+      "license_spdx": "MIT",
+      "created_at": "2024-12-01T16:33:36Z",
+      "pushed_at": "2026-07-30T07:43:06Z",
+      "topics": [
+        "ai-companion",
+        "ai-vtuber",
+        "airi",
+        "digital-life",
+        "grok-companion",
+        "live2d",
+        "neuro-sama",
+        "neurosama",
+        "openclaw",
+        "vrm",
+        "vtuber"
+      ],
+      "score": 29.75,
+      "reasons": [
+        "AI relevance keywords: 1",
+        "Star growth since previous snapshot: 5",
+        "Repository age: 605 days",
+        "Appears on GitHub Trending"
+      ],
+      "understanding": {
+        "what_it_is": "自托管的Grok伴侣，AI虚拟角色容器，支持实时语音聊天和游戏互动。",
+        "purpose": "将AI虚拟角色（如waifu、数字生命）带入现实世界，支持多平台和多场景互动。",
+        "target_users": "对AI伴侣、虚拟角色、AI VTuber等感兴趣的用户和开发者。",
+        "why_watch": "关注AI虚拟角色、实时互动和多平台支持的创新应用。"
+      }
+    },
+    {
+      "full_name": "open-webui/open-webui",
+      "html_url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": 147294,
+      "star_growth": 1,
+      "forks": 21409,
+      "language": "Python",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2023-10-06T22:08:27Z",
+      "pushed_at": "2026-07-27T23:39:39Z",
+      "topics": [
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "rag",
+        "self-hosted",
+        "ui",
+        "webui"
+      ],
+      "score": 29.75,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 1",
+        "Repository age: 1027 days"
+      ],
+      "understanding": {
+        "what_it_is": "用户友好的AI界面，支持Ollama、OpenAI API等多种后端。",
+        "purpose": "为用户提供易用的AI大模型Web界面，便于交互和管理。",
+        "target_users": "需要自托管或多后端支持的AI应用用户和开发者。",
+        "why_watch": "关注多模型支持、易用性和自托管AI界面的用户。"
+      }
+    },
+    {
+      "full_name": "browser-use/browser-use",
+      "html_url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 107275,
+      "star_growth": 1,
+      "forks": 11795,
+      "language": "Python",
+      "license_spdx": "MIT",
+      "created_at": "2024-10-31T16:00:56Z",
+      "pushed_at": "2026-07-29T16:12:09Z",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm",
+        "playwright",
+        "python"
+      ],
+      "score": 29.75,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 1",
+        "Repository age: 636 days"
+      ],
+      "understanding": {
+        "what_it_is": "让网站对AI代理可访问的工具，简化在线任务自动化。",
+        "purpose": "帮助AI代理自动化浏览器任务，实现网站自动操作。",
+        "target_users": "需要AI自动化网页操作的开发者和自动化工程师。",
+        "why_watch": "关注AI与浏览器自动化结合、提升AI代理能力的用户。"
+      }
+    },
+    {
+      "full_name": "bytedance/deer-flow",
+      "html_url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 78188,
+      "star_growth": 1,
+      "forks": 10663,
+      "language": "Python",
+      "license_spdx": "MIT",
+      "created_at": "2025-05-07T02:50:19Z",
+      "pushed_at": "2026-07-30T07:54:16Z",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "ai-agents",
+        "deep-research",
+        "harness",
+        "langchain",
+        "langgraph",
+        "langmanus",
+        "llm",
+        "multi-agent",
+        "nodejs",
+        "podcast",
+        "python",
+        "superagent",
+        "typescript"
+      ],
+      "score": 29.75,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 1",
+        "Repository age: 449 days"
+      ],
+      "understanding": {
+        "what_it_is": "开源长周期SuperAgent框架，支持研究、编程和创作任务。",
+        "purpose": "通过沙盒、记忆、工具、技能和子代理等机制，处理复杂多层级任务。",
+        "target_users": "需要多代理协作、复杂任务自动化的AI开发者和研究者。",
+        "why_watch": "关注多代理协作、长周期任务和AI自动化流程的用户。"
+      }
+    }
+  ]
+}
