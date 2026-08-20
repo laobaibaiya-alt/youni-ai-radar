@@ -1,0 +1,1230 @@
+{
+  "run_date": "2026-08-20",
+  "collected_at": "2026-08-20T09:48:00.667284+08:00",
+  "collection_mode": "scheduled",
+  "repositories": [
+    {
+      "full_name": "headroomlabs-ai/headroom",
+      "html_url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 66909,
+      "star_growth": 111,
+      "forks": 5151,
+      "language": "Python",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2026-01-07T19:58:51Z",
+      "pushed_at": "2026-08-19T21:22:01Z",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression",
+        "context-engineering",
+        "context-window",
+        "cursor",
+        "fastapi",
+        "langchain",
+        "llm",
+        "mcp",
+        "openai",
+        "prompt-engineering",
+        "proxy",
+        "python",
+        "rag",
+        "token-optimization",
+        "tokens",
+        "typescript"
+      ],
+      "score": 75.0,
+      "reasons": [
+        "AI relevance keywords: 5",
+        "Star growth since previous snapshot: 111",
+        "Repository age: 224 days"
+      ],
+      "understanding": {
+        "what_it_is": "面向 AI Agent 的上下文压缩层，提供 Python、TypeScript 库、代理服务和 MCP 接口。",
+        "purpose": "在工具输出、日志、文件和 RAG 片段进入大模型前进行内容感知压缩，减少上下文占用。",
+        "target_users": "需要控制 Agent Token 消耗、处理大型 JSON 或长工具输出的 AI 应用开发者。",
+        "why_watch": "本次快照较上次新增 111 星、综合分 75；同时覆盖 SDK、代理服务和 MCP 等接入方式，值得关注其上下文工程实践。"
+      }
+    },
+    {
+      "full_name": "langchain-ai/langchain",
+      "html_url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 144581,
+      "star_growth": 78,
+      "forks": 24086,
+      "language": "Python",
+      "license_spdx": "MIT",
+      "created_at": "2022-10-17T02:58:36Z",
+      "pushed_at": "2026-08-19T22:35:36Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag",
+        "typescript"
+      ],
+      "score": 75.0,
+      "reasons": [
+        "AI relevance keywords: 5",
+        "Star growth since previous snapshot: 78",
+        "Repository age: 1402 days"
+      ],
+      "understanding": {
+        "what_it_is": "用于构建大模型应用和 Agent 的通用开发框架。",
+        "purpose": "把模型、工具、检索和应用逻辑连接起来，缩短 Agent 与 LLM 应用的开发路径。",
+        "target_users": "构建生成式 AI 产品的开发者、平台团队和应用团队。",
+        "why_watch": "本次快照较上次新增 78 星、综合分 75；它仍是 Agent 工程生态中的基础框架之一，适合持续观察接口和生态演进。"
+      }
+    },
+    {
+      "full_name": "vercel/ai",
+      "html_url": "https://github.com/vercel/ai",
+      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "stars": 26307,
+      "star_growth": 29,
+      "forks": 4991,
+      "language": "TypeScript",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2023-05-23T15:04:08Z",
+      "pushed_at": "2026-08-20T01:25:57Z",
+      "topics": [
+        "anthropic",
+        "artificial-intelligence",
+        "gemini",
+        "generative-ai",
+        "generative-ui",
+        "javascript",
+        "language-model",
+        "llm",
+        "nextjs",
+        "openai",
+        "react",
+        "svelte",
+        "typescript",
+        "vercel",
+        "vue"
+      ],
+      "score": 75.0,
+      "reasons": [
+        "AI relevance keywords: 5",
+        "Star growth since previous snapshot: 29",
+        "Repository age: 1184 days"
+      ],
+      "understanding": {
+        "what_it_is": "面向 TypeScript 的模型无关 AI 应用开发 SDK。",
+        "purpose": "以统一接口在主流前端框架和 Node.js 中接入不同模型并构建 AI 应用与 Agent。",
+        "target_users": "开发聊天、生成式界面和 AI 功能的前端及全栈开发者。",
+        "why_watch": "本次快照较上次新增 29 星、综合分 75；其跨模型与多前端框架能力适合关注生成式 UI 的工程实现。"
+      }
+    },
+    {
+      "full_name": "yamadashy/repomix",
+      "html_url": "https://github.com/yamadashy/repomix",
+      "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+      "stars": 27960,
+      "star_growth": 20,
+      "forks": 1493,
+      "language": "TypeScript",
+      "license_spdx": "MIT",
+      "created_at": "2024-07-13T07:11:32Z",
+      "pushed_at": "2026-08-18T15:50:21Z",
+      "topics": [
+        "ai",
+        "anthropic",
+        "artificial-intelligence",
+        "chatbot",
+        "chatgpt",
+        "claude",
+        "deepseek",
+        "developer-tools",
+        "gemini",
+        "genai",
+        "generative-ai",
+        "gpt",
+        "javascript",
+        "language-model",
+        "llama",
+        "llm",
+        "mcp",
+        "nodejs",
+        "openai",
+        "typescript"
+      ],
+      "score": 75.0,
+      "reasons": [
+        "AI relevance keywords: 5",
+        "Star growth since previous snapshot: 20",
+        "Repository age: 767 days"
+      ],
+      "understanding": {
+        "what_it_is": "把整个代码仓库整理为单个 AI 友好文件的打包工具。",
+        "purpose": "让大模型更方便地读取代码库上下文，用于分析、评审、问答或辅助开发。",
+        "target_users": "希望把完整代码上下文交给 AI 的开发者、代码评审者和研究人员。",
+        "why_watch": "本次快照较上次新增 20 星、综合分 75；它直接解决代码仓库进入模型上下文前的整理问题，适合代码智能工作流。"
+      }
+    },
+    {
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 133267,
+      "star_growth": 130,
+      "forks": 19617,
+      "language": "Python",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2024-04-29T05:30:25Z",
+      "pushed_at": "2026-08-17T02:42:50Z",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "score": 69.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 130",
+        "Repository age: 842 days"
+      ],
+      "understanding": {
+        "what_it_is": "汇集 100 多个 Agent、技能、RAG 和大模型应用示例的项目库。",
+        "purpose": "提供可参考和复用的端到端模板，帮助快速理解并搭建不同类型的 AI 应用。",
+        "target_users": "寻找样例的开发者、学习者和需要快速做原型的产品团队。",
+        "why_watch": "本次快照较上次新增 130 星、综合分 69；示例覆盖面广，适合用来发现可复用的 AI 应用模式。"
+      }
+    },
+    {
+      "full_name": "f/prompts.chat",
+      "html_url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "stars": 167593,
+      "star_growth": 129,
+      "forks": 21638,
+      "language": "HTML",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2022-12-05T13:54:13Z",
+      "pushed_at": "2026-08-19T03:21:13Z",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "awesome-list",
+        "chatgpt",
+        "chatgpt-prompts",
+        "claude",
+        "gemini",
+        "gpt",
+        "gpt-4",
+        "llm",
+        "machine-learning",
+        "nextjs",
+        "open-source",
+        "openai",
+        "prompt-engineering",
+        "prompts",
+        "prompts-chat",
+        "typescript"
+      ],
+      "score": 69.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 129",
+        "Repository age: 1353 days"
+      ],
+      "understanding": {
+        "what_it_is": "可浏览、分享并自托管的开源提示词资料库。",
+        "purpose": "帮助用户发现、整理和复用提示词，也允许社区共同贡献内容。",
+        "target_users": "日常使用生成式 AI 的用户、提示词工程人员和需要内部提示词库的组织。",
+        "why_watch": "本次快照较上次新增 129 星、综合分 69；社区内容与自托管结合，适合作为提示词资产管理的参考。"
+      }
+    },
+    {
+      "full_name": "OpenHands/OpenHands",
+      "html_url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 84513,
+      "star_growth": 90,
+      "forks": 11005,
+      "language": "TypeScript",
+      "license_spdx": "MIT",
+      "created_at": "2024-03-13T03:33:31Z",
+      "pushed_at": "2026-08-20T00:15:58Z",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "score": 69.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 90",
+        "Repository age: 889 days"
+      ],
+      "understanding": {
+        "what_it_is": "用于运行和管理多种编码 Agent 的自托管控制中心。",
+        "purpose": "集中使用 OpenHands、Claude Code、Codex、Gemini 等编码 Agent 来处理软件开发任务。",
+        "target_users": "希望统一管理编码 Agent 的开发者和工程团队。",
+        "why_watch": "本次快照较上次新增 90 星、综合分 69；多 Agent 统一入口体现了编码助手从单工具走向平台化的趋势。"
+      }
+    },
+    {
+      "full_name": "langgenius/dify",
+      "html_url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 152931,
+      "star_growth": 85,
+      "forks": 24151,
+      "language": "TypeScript",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2023-04-12T07:40:24Z",
+      "pushed_at": "2026-08-20T01:44:46Z",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "automation",
+        "claude",
+        "genai",
+        "gpt",
+        "llm",
+        "low-code",
+        "mcp",
+        "nextjs",
+        "no-code",
+        "openai",
+        "orchestration",
+        "python",
+        "rag",
+        "skills",
+        "workflow"
+      ],
+      "score": 69.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 85",
+        "Repository age: 1225 days"
+      ],
+      "understanding": {
+        "what_it_is": "集 Agent、工作流、RAG 和模型管理于一体的 AI 应用平台。",
+        "purpose": "通过可视化方式连接模型、工具、知识库和流程，并支持云端、VPC 或自托管部署。",
+        "target_users": "需要快速构建和运营 AI 应用的产品团队、企业团队及低代码用户。",
+        "why_watch": "本次快照较上次新增 85 星、综合分 69；平台化能力完整，适合观察企业 AI 应用编排与交付趋势。"
+      }
+    },
+    {
+      "full_name": "langchain-ai/langgraph",
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "stars": 40042,
+      "star_growth": 74,
+      "forks": 6740,
+      "language": "Python",
+      "license_spdx": "MIT",
+      "created_at": "2023-08-09T18:33:12Z",
+      "pushed_at": "2026-08-20T00:04:10Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "score": 69.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 74",
+        "Repository age: 1106 days"
+      ],
+      "understanding": {
+        "what_it_is": "用于构建有状态 Agent 和长流程的底层编排框架。",
+        "purpose": "用图结构管理状态、分支、循环、人工介入和恢复等复杂 Agent 行为。",
+        "target_users": "需要精细控制复杂 Agent 流程的开发者和 AI 平台团队。",
+        "why_watch": "本次快照较上次新增 74 星、综合分 69；它聚焦可控的有状态编排，是复杂 Agent 工程的重要基础设施。"
+      }
+    },
+    {
+      "full_name": "aaif-goose/goose",
+      "html_url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 53016,
+      "star_growth": 52,
+      "forks": 6042,
+      "language": "Rust",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2024-08-23T19:03:36Z",
+      "pushed_at": "2026-08-20T01:46:17Z",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "score": 69.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 52",
+        "Repository age: 726 days"
+      ],
+      "understanding": {
+        "what_it_is": "可在本地运行的开源 AI Agent，提供桌面端、命令行和 API 等形态。",
+        "purpose": "让 Agent 使用多种模型执行代码编辑、测试、研究和自动化任务。",
+        "target_users": "希望在本地控制 Agent 的开发者、研究人员和自动化用户。",
+        "why_watch": "本次快照较上次新增 52 星、综合分 69；多入口和多模型设计使其适合作为本地 Agent 工作台观察。"
+      }
+    },
+    {
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 36861,
+      "star_growth": 31,
+      "forks": 4559,
+      "language": "TypeScript",
+      "license_spdx": "MIT",
+      "created_at": "2023-06-19T04:08:31Z",
+      "pushed_at": "2026-08-20T01:23:54Z",
+      "topics": [
+        "agent",
+        "agent-native",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agent",
+        "ai-assistant",
+        "assistant",
+        "assistant-chat-bots",
+        "copilot",
+        "copilot-chat",
+        "generative-ui",
+        "js",
+        "llm",
+        "nextjs",
+        "open-source",
+        "react",
+        "reactjs",
+        "ts",
+        "typescript"
+      ],
+      "score": 69.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 31",
+        "Repository age: 1157 days"
+      ],
+      "understanding": {
+        "what_it_is": "用于构建 Agent 原生应用和生成式界面的前端开发栈。",
+        "purpose": "在主流前端和移动应用中连接 Agent、共享状态，并加入人工确认流程。",
+        "target_users": "开发 AI 交互界面、应用内 Copilot 和 Agent 产品的前端及全栈团队。",
+        "why_watch": "本次快照较上次新增 31 星、综合分 69；它把 Agent 状态与前端交互直接结合，适合关注生成式 UI 落地。"
+      }
+    },
+    {
+      "full_name": "ComposioHQ/composio",
+      "html_url": "https://github.com/ComposioHQ/composio",
+      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+      "stars": 29787,
+      "star_growth": 24,
+      "forks": 4720,
+      "language": "TypeScript",
+      "license_spdx": "MIT",
+      "created_at": "2024-02-23T13:58:27Z",
+      "pushed_at": "2026-08-20T01:15:14Z",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "aiagents",
+        "developer-tools",
+        "function-calling",
+        "gpt-4",
+        "javascript",
+        "js",
+        "llm",
+        "llmops",
+        "mcp",
+        "python",
+        "remote-mcp-server",
+        "sse",
+        "typescript"
+      ],
+      "score": 69.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 24",
+        "Repository age: 908 days"
+      ],
+      "understanding": {
+        "what_it_is": "为 AI Agent 提供外部应用集成、认证、工具搜索、上下文管理和沙箱能力的平台。",
+        "purpose": "让 Agent 更容易、安全地连接第三方应用并把用户意图转成真实操作。",
+        "target_users": "构建可调用外部服务的 AI 应用开发者和 Agent 平台团队。",
+        "why_watch": "本次快照较上次新增 24 星、综合分 69；它集中解决 Agent 工具接入、身份认证和受控执行问题。"
+      }
+    },
+    {
+      "full_name": "lobehub/lobehub",
+      "html_url": "https://github.com/lobehub/lobehub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "stars": 81834,
+      "star_growth": 22,
+      "forks": 15806,
+      "language": "TypeScript",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2023-05-21T07:19:12Z",
+      "pushed_at": "2026-08-20T01:38:55Z",
+      "topics": [
+        "agent",
+        "agent-collaboration",
+        "agent-harness",
+        "ai",
+        "cao",
+        "chatgpt",
+        "chief-agent-operator",
+        "claude",
+        "deepseek",
+        "fable",
+        "gemini",
+        "glm",
+        "gpt",
+        "knowledge-base",
+        "loop-engineering",
+        "mcp",
+        "openai",
+        "skills"
+      ],
+      "score": 69.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 22",
+        "Repository age: 1186 days"
+      ],
+      "understanding": {
+        "what_it_is": "用于组织、调度和汇报多个 AI Agent 的协作平台。",
+        "purpose": "把不同 Agent 组成可持续工作的虚拟团队，并统一管理任务和结果。",
+        "target_users": "希望让多个 Agent 长期协作的个人用户、创业团队和业务团队。",
+        "why_watch": "本次快照较上次新增 22 星、综合分 69；多 Agent 团队化管理是当前产品方向之一，值得观察其协作体验。"
+      }
+    },
+    {
+      "full_name": "mudler/LocalAI",
+      "html_url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "stars": 48586,
+      "star_growth": 22,
+      "forks": 4369,
+      "language": "Go",
+      "license_spdx": "MIT",
+      "created_at": "2023-03-18T22:58:02Z",
+      "pushed_at": "2026-08-20T00:11:34Z",
+      "topics": [
+        "agents",
+        "ai",
+        "api",
+        "audio-generation",
+        "decentralized",
+        "distributed",
+        "image-generation",
+        "libp2p",
+        "llama",
+        "llm",
+        "mamba",
+        "mcp",
+        "musicgen",
+        "object-detection",
+        "rerank",
+        "stable-diffusion",
+        "text-generation",
+        "tts"
+      ],
+      "score": 69.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 22",
+        "Repository age: 1250 days"
+      ],
+      "understanding": {
+        "what_it_is": "可在多种硬件上本地运行多模态模型的开源 AI 引擎。",
+        "purpose": "通过统一兼容接口运行文本、图像、语音等模型，减少对外部云服务的依赖。",
+        "target_users": "重视自托管、本地数据控制或需要兼容多种硬件的开发者和组织。",
+        "why_watch": "本次快照较上次新增 22 星、综合分 69；本地多模态与兼容 API 的组合，适合作为私有化 AI 部署方案参考。"
+      }
+    },
+    {
+      "full_name": "zhayujie/CowAgent",
+      "html_url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 46575,
+      "star_growth": 21,
+      "forks": 10322,
+      "language": "Python",
+      "license_spdx": "MIT",
+      "created_at": "2022-08-07T08:33:41Z",
+      "pushed_at": "2026-08-19T11:14:12Z",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "chatgpt-on-wechat",
+        "claude",
+        "claude-code",
+        "codex",
+        "cowagent",
+        "deepseek",
+        "harness",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "openclaw",
+        "skills"
+      ],
+      "score": 69.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 21",
+        "Repository age: 1473 days"
+      ],
+      "understanding": {
+        "what_it_is": "具备规划、工具、技能、记忆和多渠道接入能力的开源个人 Agent 框架。",
+        "purpose": "帮助用户搭建能够执行任务、调用外部能力并长期保存上下文的个人助手。",
+        "target_users": "个人自动化用户、机器人开发者和希望研究 Agent 架构的开发者。",
+        "why_watch": "本次快照较上次新增 21 星、综合分 69；组件覆盖规划、工具、技能、记忆和多渠道接入，可用来观察个人 Agent 的开源实现路径。"
+      }
+    },
+    {
+      "full_name": "openai/openai-agents-python",
+      "html_url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "stars": 28774,
+      "star_growth": 21,
+      "forks": 4538,
+      "language": "Python",
+      "license_spdx": "MIT",
+      "created_at": "2025-03-11T03:42:36Z",
+      "pushed_at": "2026-08-19T21:01:15Z",
+      "topics": [
+        "agents",
+        "ai",
+        "framework",
+        "harness",
+        "llm",
+        "openai",
+        "python"
+      ],
+      "score": 69.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 21",
+        "Repository age: 526 days"
+      ],
+      "understanding": {
+        "what_it_is": "用于构建多 Agent 工作流的轻量级 Python 开发框架。",
+        "purpose": "为 Agent、工具调用、交接和多 Agent 协作提供可组合的 Python SDK。",
+        "target_users": "使用 Python 构建 Agent 应用、自动化流程或多 Agent 系统的开发者。",
+        "why_watch": "本次快照较上次新增 21 星、综合分 69；它为 Python Agent 工程提供官方开源 SDK 入口。"
+      }
+    },
+    {
+      "full_name": "volcengine/OpenViking",
+      "html_url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars": 30238,
+      "star_growth": 806,
+      "forks": 2337,
+      "language": "Python",
+      "license_spdx": "AGPL-3.0",
+      "created_at": "2026-01-05T07:11:17Z",
+      "pushed_at": "2026-08-19T15:59:33Z",
+      "topics": [
+        "agent-memory",
+        "agent-plugins",
+        "agentic-rag",
+        "context-database",
+        "dsh-plugin",
+        "self-evolving"
+      ],
+      "score": 68.0,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 806",
+        "Repository age: 226 days",
+        "Appears on GitHub Trending"
+      ],
+      "understanding": {
+        "what_it_is": "面向 AI Agent 的自演进上下文数据库，用于统一管理 Agent 记忆、知识 RAG 和技能。",
+        "purpose": "把分散的记忆、知识检索和技能上下文纳入同一数据层，便于 Agent 持续读取和组织任务所需信息。",
+        "target_users": "构建长期运行 Agent、RAG 应用或需要统一上下文管理能力的 AI 开发者和平台团队。",
+        "why_watch": "本次快照较上次新增 806 星、综合分 68，并出现在 GitHub Trending；其把记忆、知识与技能统一为上下文数据库的定位值得关注。"
+      }
+    },
+    {
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "html_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": 29865,
+      "star_growth": 634,
+      "forks": 3540,
+      "language": "Python",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2026-02-25T09:47:50Z",
+      "pushed_at": "2026-08-08T14:55:19Z",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "cloud-security",
+        "cybersecurity",
+        "devsecops",
+        "ethical-hacking",
+        "incident-response",
+        "infosec",
+        "llm",
+        "malware-analysis",
+        "mcp",
+        "mitre-attack",
+        "nist-csf",
+        "osint",
+        "penetration-testing",
+        "red-team",
+        "security",
+        "security-automation",
+        "threat-hunting",
+        "threat-intelligence"
+      ],
+      "score": 67.0,
+      "reasons": [
+        "AI relevance keywords: 4",
+        "Star growth since previous snapshot: 634",
+        "Repository age: 175 days",
+        "Appears on GitHub Trending"
+      ],
+      "understanding": {
+        "what_it_is": "面向 AI Agent 的开源网络安全技能库，按 agentskills.io 标准整理了 817 个结构化技能。",
+        "purpose": "把网络安全操作知识映射到 MITRE ATT&CK、NIST CSF、MITRE ATLAS 等框架，供多种编码与 Agent 工具调用和参考。",
+        "target_users": "安全团队、DevSecOps 工程师，以及使用 Claude Code、Codex、Copilot、Cursor 等工具构建安全 Agent 的开发者。",
+        "why_watch": "本次快照较上次新增 634 星、综合分 67，并出现在 GitHub Trending；其价值在于把跨安全框架的知识整理成可移植 Agent 技能。"
+      }
+    },
+    {
+      "full_name": "usestrix/strix",
+      "html_url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 55724,
+      "star_growth": 620,
+      "forks": 5962,
+      "language": "Python",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2025-08-05T21:28:30Z",
+      "pushed_at": "2026-08-19T21:53:58Z",
+      "topics": [
+        "agents",
+        "ai-hacking",
+        "ai-penetration-testing",
+        "ai-pentesting",
+        "ai-security",
+        "artificial-intelligence",
+        "bug-bounty",
+        "code-quality",
+        "ctf-tools",
+        "cybersecurity",
+        "cybersecurity-tools",
+        "ethical-hacking",
+        "hacking",
+        "llm-security",
+        "offensive-security",
+        "penetration-testing",
+        "pentesting-tools",
+        "red-teaming",
+        "security",
+        "security-automation"
+      ],
+      "score": 63.0,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 620",
+        "Repository age: 379 days"
+      ],
+      "understanding": {
+        "what_it_is": "用于授权安全测试的开源 AI 渗透测试平台。",
+        "purpose": "对应用进行动态测试，自动发现、验证并整理潜在漏洞。",
+        "target_users": "安全团队、授权渗透测试人员和希望在开发流程中加入安全测试的工程团队。",
+        "why_watch": "本次快照较上次新增 620 星、综合分 63；AI Agent 与自动化安全验证结合，但使用时必须限定在授权目标内。"
+      }
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 233075,
+      "star_growth": 496,
+      "forks": 46625,
+      "language": "Python",
+      "license_spdx": "MIT",
+      "created_at": "2025-07-22T22:22:28Z",
+      "pushed_at": "2026-08-20T01:17:27Z",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "hermes",
+        "hermes-agent",
+        "llm",
+        "nous-research",
+        "openai"
+      ],
+      "score": 63.0,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 496",
+        "Repository age: 393 days"
+      ],
+      "understanding": {
+        "what_it_is": "具备技能、记忆和多种执行环境的自我改进型个人 Agent。",
+        "purpose": "让助手在持续使用中积累能力和上下文，并在不同运行环境中执行任务。",
+        "target_users": "需要持久化个人助手的用户，以及研究 Agent 技能和记忆机制的开发者。",
+        "why_watch": "本次快照较上次新增 496 星、综合分 63；技能与长期记忆结合的个人 Agent 路线持续获得关注。"
+      }
+    },
+    {
+      "full_name": "unslothai/unsloth",
+      "html_url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "stars": 73876,
+      "star_growth": 269,
+      "forks": 6672,
+      "language": "Python",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2023-11-29T16:50:09Z",
+      "pushed_at": "2026-08-20T01:00:24Z",
+      "topics": [
+        "agent",
+        "ai",
+        "chatgpt",
+        "deepseek",
+        "fine-tuning",
+        "gemma",
+        "image-generation",
+        "llama",
+        "llm",
+        "llms",
+        "openai",
+        "python",
+        "qwen",
+        "reinforcement-learning",
+        "self-hosted",
+        "stable-diffusion",
+        "text-to-speech",
+        "tts",
+        "ui",
+        "unsloth"
+      ],
+      "score": 63.0,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 269",
+        "Repository age: 994 days"
+      ],
+      "understanding": {
+        "what_it_is": "用于在本地运行、训练和部署大模型、扩散、嵌入及音频模型的桌面应用与工具集。",
+        "purpose": "在本地环境中覆盖模型推理、微调、Agent 与 MCP 接入、RAG 以及多模态任务。",
+        "target_users": "希望本地运行或微调模型的 AI 开发者、研究人员和重视数据控制的自托管用户。",
+        "why_watch": "本次快照较上次新增 269 星、综合分 63；其跨平台桌面端同时覆盖模型运行与训练，值得关注本地 AI 工具链整合。"
+      }
+    },
+    {
+      "full_name": "koala73/worldmonitor",
+      "html_url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": 83233,
+      "star_growth": 254,
+      "forks": 12418,
+      "language": "TypeScript",
+      "license_spdx": "AGPL-3.0",
+      "created_at": "2026-01-08T17:26:06Z",
+      "pushed_at": "2026-08-19T22:01:32Z",
+      "topics": [
+        "agent",
+        "ai",
+        "dashboard",
+        "geopolitics",
+        "mcp",
+        "mcp-server",
+        "monitoring",
+        "news",
+        "opensource",
+        "osint",
+        "palantir",
+        "situation"
+      ],
+      "score": 63.0,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 254",
+        "Repository age: 223 days"
+      ],
+      "understanding": {
+        "what_it_is": "聚合新闻、地缘政治和基础设施信息的全球态势监控仪表盘。",
+        "purpose": "把分散的公开信息汇总到统一界面，帮助快速观察全球事件与风险变化。",
+        "target_users": "开源情报研究者、新闻分析人员和需要持续态势感知的信息团队。",
+        "why_watch": "本次快照较上次新增 254 星、综合分 63；公开信息聚合与可视化需求突出，可作为情报仪表盘产品参考。"
+      }
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 241201,
+      "star_growth": 221,
+      "forks": 36575,
+      "language": "JavaScript",
+      "license_spdx": "MIT",
+      "created_at": "2026-01-18T00:51:51Z",
+      "pushed_at": "2026-08-19T23:31:56Z",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "score": 63.0,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 221",
+        "Repository age: 214 days"
+      ],
+      "understanding": {
+        "what_it_is": "面向 Claude Code、Codex 和 Cursor 等编码 Agent 的工程化配置与工作规范集合。",
+        "purpose": "通过技能、记忆、安全规则和研究优先流程，提高编码 Agent 的稳定性与可复用性。",
+        "target_users": "经常使用编码 Agent 的个人开发者和希望统一 AI 开发规范的团队。",
+        "why_watch": "本次快照较上次新增 221 星、综合分 63；它反映了编码 Agent 使用经验正被沉淀为可移植工程体系。"
+      }
+    },
+    {
+      "full_name": "datawhalechina/hello-agents",
+      "html_url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars": 73796,
+      "star_growth": 176,
+      "forks": 9165,
+      "language": "Python",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2025-09-07T09:50:24Z",
+      "pushed_at": "2026-08-18T06:51:35Z",
+      "topics": [
+        "agent",
+        "llm",
+        "rag",
+        "tutorial"
+      ],
+      "score": 63.0,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 176",
+        "Repository age: 346 days"
+      ],
+      "understanding": {
+        "what_it_is": "从原理到实践讲解 AI Agent 的中文开源教程。",
+        "purpose": "系统介绍 Agent 理论、架构和常见范式，并通过实践帮助学习者完成入门。",
+        "target_users": "希望学习 Agent 的学生、初学者和 AI 应用开发者。",
+        "why_watch": "本次快照较上次新增 176 星、综合分 63；中文系统教程增长较快，适合作为 Agent 学习和教学资料。"
+      }
+    },
+    {
+      "full_name": "ruvnet/ruflo",
+      "html_url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 68370,
+      "star_growth": 139,
+      "forks": 8208,
+      "language": "TypeScript",
+      "license_spdx": "MIT",
+      "created_at": "2025-06-02T21:24:20Z",
+      "pushed_at": "2026-08-20T01:37:15Z",
+      "topics": [
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "agents",
+        "ai-agents",
+        "ai-assistant",
+        "ai-coding",
+        "ai-skills",
+        "autonomous-agents",
+        "claude-code",
+        "codex",
+        "harness",
+        "mcp-server",
+        "multi-agent",
+        "multi-agent-systems",
+        "npm",
+        "skills",
+        "swarm",
+        "swarm-intelligence",
+        "typescript"
+      ],
+      "score": 63.0,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 139",
+        "Repository age: 443 days"
+      ],
+      "understanding": {
+        "what_it_is": "用于组织智能体群、工作流、记忆、RAG 和技能的多 Agent 元框架。",
+        "purpose": "为复杂任务提供多 Agent 协作、调度和持续学习能力。",
+        "target_users": "构建多 Agent 系统、自动化平台和复杂编排流程的开发者。",
+        "why_watch": "本次快照较上次新增 139 星、综合分 63；其覆盖群体协作与记忆等多层能力，适合观察多 Agent 平台的集成方式。"
+      }
+    },
+    {
+      "full_name": "browser-use/browser-use",
+      "html_url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 109783,
+      "star_growth": 126,
+      "forks": 12069,
+      "language": "Python",
+      "license_spdx": "MIT",
+      "created_at": "2024-10-31T16:00:56Z",
+      "pushed_at": "2026-08-19T17:35:21Z",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm",
+        "playwright",
+        "python"
+      ],
+      "score": 63.0,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 126",
+        "Repository age: 657 days"
+      ],
+      "understanding": {
+        "what_it_is": "让 AI Agent 操作网页浏览器的开源自动化框架。",
+        "purpose": "支持 Agent 打开页面、点击、输入、填写表单和提取信息，从而完成网页任务。",
+        "target_users": "构建浏览器 Agent、网页自动化和信息采集工具的工程师。",
+        "why_watch": "本次快照较上次新增 126 星、综合分 63；浏览器操作仍是通用 Agent 接触现实业务系统的核心能力。"
+      }
+    },
+    {
+      "full_name": "thedotmack/claude-mem",
+      "html_url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": 91279,
+      "star_growth": 113,
+      "forks": 7982,
+      "language": "JavaScript",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2025-08-31T20:50:03Z",
+      "pushed_at": "2026-08-20T01:20:51Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "anthropic",
+        "artificial-intelligence",
+        "chromadb",
+        "claude",
+        "claude-agent-sdk",
+        "claude-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "embeddings",
+        "long-term-memory",
+        "mem0",
+        "memory-engine",
+        "openmemory",
+        "rag",
+        "sqlite",
+        "supermemory"
+      ],
+      "score": 63.0,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 113",
+        "Repository age: 353 days"
+      ],
+      "understanding": {
+        "what_it_is": "为编码 Agent 提供跨会话持久上下文和记忆压缩的工具。",
+        "purpose": "保存开发过程中的关键信息，并在后续会话中按需恢复，减少重复解释项目背景。",
+        "target_users": "使用 Claude、Codex、Gemini 或 Copilot 进行长期开发的个人和工程团队。",
+        "why_watch": "本次快照较上次新增 113 星、综合分 63；跨会话记忆是编码 Agent 长期协作的痛点，适合关注其压缩和召回方式。"
+      }
+    },
+    {
+      "full_name": "open-webui/open-webui",
+      "html_url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": 149278,
+      "star_growth": 110,
+      "forks": 21768,
+      "language": "Python",
+      "license_spdx": "NOASSERTION",
+      "created_at": "2023-10-06T22:08:27Z",
+      "pushed_at": "2026-08-20T01:15:01Z",
+      "topics": [
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "rag",
+        "self-hosted",
+        "ui",
+        "webui"
+      ],
+      "score": 63.0,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 110",
+        "Repository age: 1048 days"
+      ],
+      "understanding": {
+        "what_it_is": "支持 Ollama、OpenAI 等多种后端的自托管 AI Web 界面。",
+        "purpose": "为模型聊天、RAG、MCP 和团队使用提供统一的浏览器入口。",
+        "target_users": "需要本地或私有部署 AI 交互界面的个人、开发者和组织。",
+        "why_watch": "本次快照较上次新增 110 星、综合分 63；功能覆盖广且适配多种模型后端，是自托管 AI 门户的重要参考。"
+      }
+    },
+    {
+      "full_name": "bytedance/deer-flow",
+      "html_url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 80344,
+      "star_growth": 80,
+      "forks": 11017,
+      "language": "Python",
+      "license_spdx": "MIT",
+      "created_at": "2025-05-07T02:50:19Z",
+      "pushed_at": "2026-08-20T00:57:10Z",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "ai-agents",
+        "deep-research",
+        "harness",
+        "langchain",
+        "langgraph",
+        "langmanus",
+        "llm",
+        "multi-agent",
+        "nodejs",
+        "podcast",
+        "python",
+        "superagent",
+        "typescript"
+      ],
+      "score": 63.0,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 80",
+        "Repository age: 469 days"
+      ],
+      "understanding": {
+        "what_it_is": "可编排子 Agent、记忆、沙盒、工具和技能的长周期 SuperAgent 框架。",
+        "purpose": "承载从几分钟到数小时的研究、编程和创作任务，并组织多组件协同执行。",
+        "target_users": "需要构建长任务 Agent、深度研究流程或多 Agent 自动化系统的开发者与团队。",
+        "why_watch": "本次快照较上次新增 80 星、综合分 63；其架构集中覆盖长任务运行所需的多种组件。"
+      }
+    },
+    {
+      "full_name": "mem0ai/mem0",
+      "html_url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 63620,
+      "star_growth": 70,
+      "forks": 7443,
+      "language": "Python",
+      "license_spdx": "Apache-2.0",
+      "created_at": "2023-06-20T08:58:36Z",
+      "pushed_at": "2026-08-18T15:51:45Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots",
+        "chatgpt",
+        "genai",
+        "llm",
+        "long-term-memory",
+        "memory",
+        "memory-management",
+        "python",
+        "rag",
+        "state-management"
+      ],
+      "score": 63.0,
+      "reasons": [
+        "AI relevance keywords: 3",
+        "Star growth since previous snapshot: 70",
+        "Repository age: 1156 days"
+      ],
+      "understanding": {
+        "what_it_is": "面向 AI Agent 和聊天应用的通用长期记忆层。",
+        "purpose": "保存、整理并按需召回与用户或任务相关的信息，让应用具备持续上下文。",
+        "target_users": "开发个性化助手、长期运行 Agent 和有状态 AI 产品的团队。",
+        "why_watch": "本次快照较上次新增 70 星、综合分 63；长期记忆是 Agent 产品化的基础能力，其通用接口值得持续观察。"
+      }
+    }
+  ]
+}
